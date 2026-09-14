@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68af3d40-5371-4123-bbbb-80a9d2ad73bb" name="Changes" comment="" />
+    <list default="true" id="68af3d40-5371-4123-bbbb-80a9d2ad73bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/DayName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/NumberClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/PrintNumbersUpToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/VotingEligibilityChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/ArmstrongCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/TrianglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/assignment_problems/ATM_PIN_Length_Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/assignment_problems/Library_Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/assignment_problems/Product_Inventory_CSV_Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/assignment_problems/Stop_Word_Filtered_Word_Frequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/assignment_problems/Word_Reversal_Encoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/class_problems/Bank_Transaction_Reference_Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/class_problems/ExtensionValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/class_problems/Masked_Phone_Number_Formatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/class_problems/StudentRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Javabasics/class_problems/Text.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
