@@ -1,4 +1,4 @@
-package JavaStringConcepts.class_problems;
+package _01_JavaFoundation.practice_problems;
 
 import java.util.*;
 
