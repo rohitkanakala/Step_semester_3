@@ -5,16 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68af3d40-5371-4123-bbbb-80a9d2ad73bb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/DayName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/NumberClassifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/PrintNumbersUpToN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/SumOfNaturalNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/assignment_problems/VotingEligibilityChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/ArmstrongCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/PalindromeCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solving Problems/JavaFundamentals/class_problems/TrianglePattern.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/assignment_problems/DraftRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/assignment_problems/MatchGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/assignment_problems/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/assignment_problems/PlayerFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/assignment_problems/TeamMultiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/class_problems/HackathonScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/class_problems/PlacementRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/class_problems/SeatingGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/class_problems/TeamFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solving Problems/OOP_Fundamental/class_problems/TopThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/assignment_problems/FindMin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/assignment_problems/MaxSubArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/assignment_problems/ProductExceptSelf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/assignment_problems/SubarraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/assignment_problems/ThreeSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/class_problems/ContainsDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/class_problems/MaxProfit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/class_problems/MergeArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/class_problems/RotateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solving Problems/Arrays/class_problems/TwoSum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +55,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/session__04",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Step Class/Step_semester_3/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/session__05&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Step Class/Step_semester_3/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Step Class\Step_semester_3\Solving Problems\JavaStringConcepts\class_problems" />
